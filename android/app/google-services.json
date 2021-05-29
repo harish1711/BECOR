@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1011926722535",
+    "firebase_url": "https://becor-4fd59.firebaseio.com",
+    "project_id": "becor-4fd59",
+    "storage_bucket": "becor-4fd59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011926722535:android:6012dce9e872aaa651ff42",
+        "android_client_info": {
+          "package_name": "com.example.BECOR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011926722535-7tgsaqadojvaea3uurh63g7au9k1bl31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.BECOR",
+            "certificate_hash": "98834e2266626c44852101a6c4787aa95d9b074e"
+          }
+        },
+        {
+          "client_id": "1011926722535-6atsfl3h7bv4afufavdp9rtvfkmn1l5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoIbhnZoc4TmmfIs5w9E5PW2u4tz-rA3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011926722535-6atsfl3h7bv4afufavdp9rtvfkmn1l5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
